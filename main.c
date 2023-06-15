@@ -5,7 +5,6 @@
 #include "LCD_Function.h"
 #include "Serial_Function.h"
 #include "MP3_Function.h"
-#include "Key_Function.h"
 #define DATA_BUS P0
 #define Start_Volume 0x0F
 #define Key_one 0x01					
